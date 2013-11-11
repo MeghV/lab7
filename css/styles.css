@@ -28,3 +28,15 @@ p {
     height: 600px;
 }
 
+.footer {
+    padding-top: 30px;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footer a{
+    width: 100%; ;
+}
+
